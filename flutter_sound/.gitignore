@@ -1,3 +1,5 @@
+**/.idea/*
+
 .DS_Store
 .dart_tool/
 
@@ -7,7 +9,6 @@ pubspec.lock
 
 build/
 
-.idea/
 flutter_sound.iml
 flutter_sound_android.iml
 android/.settings/org.eclipse.buildship.core.prefs

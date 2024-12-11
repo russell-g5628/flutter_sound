@@ -29,10 +29,10 @@ android {
       namespace 'xyz.canardoux.fluttersound'
     }    
     
-    compileSdkVersion 30
+    compileSdkVersion 34
 
     defaultConfig {
-        minSdkVersion 18 // 18 works fine for the player, but the recorder needs at least 24
+        minSdkVersion 23 // 18 works fine for the player, but the recorder needs at least 24
     }
     lintOptions {
         disable 'InvalidPackage'
